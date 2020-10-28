@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46264506341",
+    "firebase_url": "https://chefcenterdb-62ff4.firebaseio.com",
+    "project_id": "chefcenterdb-62ff4",
+    "storage_bucket": "chefcenterdb-62ff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46264506341:android:07594f516e1083196b010c",
+        "android_client_info": {
+          "package_name": "com.example.chefcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46264506341-bth63kflmghgsoqj4mdgtral82331qdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chefcenter",
+            "certificate_hash": "4767eb8d8d713c9a7ead4e2ce780f21e58cbb2aa"
+          }
+        },
+        {
+          "client_id": "46264506341-72ej6ue220g9ubbhm5ch5piqrf3nbib3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9j-dEPUZDNpK6YZSnfV9ZMqvjbp12J2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46264506341-72ej6ue220g9ubbhm5ch5piqrf3nbib3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
